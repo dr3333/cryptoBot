@@ -1,0 +1,8 @@
+# requirements.txt
+solana
+anchorpy
+pandas
+requests
+jupiter-py
+python-dotenv
+pytest
